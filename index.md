@@ -1,4 +1,4 @@
-# Welcome to OAQ!
+**Welcome to OAQ!**
 
 OAQ is a web-based tool that helps publishers create author questionnaires and creates structured data from author responses. In future developments, it will also facilitate sharing that data with libraries to allow us to create rich discovery metadata earlier in the publication process, and to make authors more discoverable.
 
