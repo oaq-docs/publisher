@@ -11,21 +11,21 @@ The OAQ application supports several types of **account roles**, each with diffe
 | Account role | Permissions |
 |--|--|
 |Site admin| Can see and manage all organizations, including creating organizations and inviting users to an organization. Currently limited to Harvard library staff. |
-|Organization admin | Can [invite staff to the organization](/publisher_workflow/account_management#inviting-others-to-the-organization), [manage organization users](/publisher_workflow/organizations#managing-organization-users), [edit organization details](/publisher_workflow/organizations#editing-organization-details), [create new questionnaires](/publisher_workflow/questionnaires#creating-a-new-questionnaire), [manage questionnaires](/publisher_workflow/questionnaires#actions-you-can-perform-on-a-questionnaire), [send questionnaires to authors](/publisher_workflow/questionnaires#sending-a-questionnaire-to-an-author), and [manage author responses](/publisher_workflow/questionnaires#managing-author-responses). |
-|Organization staff | Can [create new questionnaires](/publisher_workflow/questionnaires#creating-a-new-questionnaire), [manage questionnaires](/publisher_workflow/questionnaires#actions-you-can-perform-on-a-questionnaire), [send questionnaires to authors](/publisher_workflow/questionnaires#sending-a-questionnaire-to-an-author), and [manage author responses](/publisher_workflow/questionnaires#managing-author-responses). |
+|Organization admin | Can [invite staff to the organization](/publisher-workflow/articles/account_management#inviting-others-to-the-organization), [manage organization users](/publisher-workflow/articles/organizations#managing-organization-users), [edit organization details](/publisher-workflow/articles/organizations#editing-organization-details), [create new questionnaires](/publisher-workflow/articles/questionnaires#creating-a-new-questionnaire), [manage questionnaires](/publisher-workflow/articles/questionnaires#actions-you-can-perform-on-a-questionnaire), [send questionnaires to authors](/publisher-workflow/articles/questionnaires#sending-a-questionnaire-to-an-author), and [manage author responses](/publisher-workflow/articles/questionnaires#managing-author-responses). |
+|Organization staff | Can [create new questionnaires](/publisher-workflow/articles/questionnaires#creating-a-new-questionnaire), [manage questionnaires](/publisher-workflow/articles/questionnaires#actions-you-can-perform-on-a-questionnaire), [send questionnaires to authors](/publisher-workflow/articles/questionnaires#sending-a-questionnaire-to-an-author), and [manage author responses](/publisher-workflow/articles/questionnaires#managing-author-responses). |
 |Author | Can view, save, and submit questionnaires. |
 
 ## Getting started as an organization admin
 
-Before anyone from your organization can do anything in OAQ, a site admin will need to create your organization with some preliminary information that your staff can [edit later](/publisher_workflow/organizations#editing-organization-details).
+Before anyone from your organization can do anything in OAQ, a site admin will need to create your organization with some preliminary information that your staff can [edit later](/publisher-workflow/articles/organizations#editing-organization-details).
 
 Your experience as a publisher in OAQ begins when the site admin invites the first member (or members) to the organization as an  **organization admin**.
 
-Each invited organization admin will receive an email that contains an invitation link. If you receive one of these emails and click the link, you will be taken to a page in OAQ where you can confirm your account and create a password. (Note you can always [change your password]((/publisher_workflow/account_management#changing-your-password) later.)
+Each invited organization admin will receive an email that contains an invitation link. If you receive one of these emails and click the link, you will be taken to a page in OAQ where you can confirm your account and create a password. (Note you can always [change your password](/publisher-workflow/articles/account_management#changing-your-password) later.)
 
 ## Inviting others to the organization
 
-If you are an organization admin, once you have confirmed your account, you have the ability to invite additional members to the organization and set their organization roles as either **admin** or **staff**. You can also [delete and restore users](/publisher_workflow/organizations#managing-organization-users) as needed.
+If you are an organization admin, once you have confirmed your account, you have the ability to invite additional members to the organization and set their organization roles as either **admin** or **staff**. You can also [delete and restore users](/publisher-workflow/articles/organizations#managing-organization-users) as needed.
 
 ## Logging in and out
 
