@@ -38,8 +38,8 @@ These steps will create an organization-wide question without adding it to a que
 |Long Answer|The question will be followed by a paragraph-sized field.|
 |Date|The question will be followed by a single-line field. When this field is clicked, a date picker with calendar view pops up. This helps enforce proper date format.|
 |Dropdown|The question will be followed by a dropdown menu that contains all the **Answer Options** you add (see above [table](#question-components)).|
-|Multiple Choice|The question will be followed by a multiple choice list of all the **Answer Options** you add (see above [table]((#question-components)).|
-|Checkboxes|The question will be followed by a checkbox list of all the **Answer Options** you add (see above [table]((#question-components)).|
+|Multiple Choice|The question will be followed by a multiple choice list of all the **Answer Options** you add (see above [table](#question-components)).|
+|Checkboxes|The question will be followed by a checkbox list of all the **Answer Options** you add (see above [table](#question-components)).|
 
 For information on creating a question from within a questionnaire, see "[Create a new question and add it to a section](/publisher-workflow/articles/questionnaires#create-a-brand-new-question-and-add-it-to-the-section)."
 
