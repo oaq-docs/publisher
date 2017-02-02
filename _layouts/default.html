@@ -18,13 +18,11 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         <!-- add TOC in sidebar -->
         <b>TOC</b><br/>
-        <ul>
         {% for my_page in site.pages %}
           {% if my_page.title %}
-            <li><a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a><li>
+            • <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
           {% endif %}
         {% endfor %}
-        </ul>
       </header>
 
       <section>
