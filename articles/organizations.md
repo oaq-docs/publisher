@@ -24,7 +24,7 @@ If you are an organization admin, you can invite new users and manage existing u
 To invite a new user:
 
   1. Click **Invite users**.
-  2. Enter the user email addresses and set their organization [roles](/publisher-workflow/articles/account_management#about-account-roles) to either **admin** or **staff**.
+  2. Enter the user email addresses and set their organization [roles](/publisher-workflow/articles/account_management#types-of-account-roles) to either **admin** or **staff**.
   3. Click **Invite**.
 
 To edit a user:

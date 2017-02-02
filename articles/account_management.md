@@ -6,6 +6,8 @@ OAQ is designed to be a multi-tenant platform, which means multiple publishers c
 
 Note that when we say _publisher_ in this documentation, we mean an [organization](/publisher-workflow/articles/organizations) with an **organization type** of "publisher." The other organization type available is "library."
 
+## Types of account roles
+
 The OAQ application supports several types of **account roles**, each with different views and permissions. Here they are in order from most to least permissions:
 
 | Account role | Permissions |
