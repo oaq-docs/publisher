@@ -4,7 +4,7 @@
 
 OAQ is designed to be a multi-tenant platform, which means multiple publishers can use it simultaneously with their own users and branding. This means your organization's data will remain invisible to other publishers.
 
-Note that when we say _publisher_ in this documentation, we mean an [organization](/publisher/articles/organizations) with an **organization type** of "publisher." The other organization type available is "library."
+Note that when we say _publisher_ in this documentation, we mean an [organization](/publisher-workflow/articles/organizations) with an **organization type** of "publisher." The other organization type available is "library."
 
 The OAQ application supports several types of **account roles**, each with different views and permissions. Here they are in order from most to least permissions:
 
@@ -29,10 +29,10 @@ If you are an organization admin, once you have confirmed your account, you have
 
 ## Logging in and out
 
-To log out of OAQ, simply click ![user icon](/docs/assets/user_icon.png) in the top bar and click **Logout**.
+To log out of OAQ, simply click ![user icon](/publisher-workflow/assets/user_icon.png) in the top bar and click **Logout**.
 
 To log in again, click **Sign In** in the top bar.
 
 ## Changing your password
 
-You can change your password at any time by clicking ![user icon](/docs/assets/user_icon.png) in the top bar and selecting **Change Password**.
+You can change your password at any time by clicking ![user icon](/publisher-workflow/assets/user_icon.png) in the top bar and selecting **Change Password**.
