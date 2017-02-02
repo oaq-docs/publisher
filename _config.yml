@@ -27,7 +27,6 @@ show_downloads: false
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-minimal
-# theme: minima
 
 kramdown:
   toc_levels: 1..2
