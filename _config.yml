@@ -22,7 +22,7 @@ description: > # this means to ignore newlines until "baseurl:"
   <a href="http://library.harvard.edu/oaq">Harvard Library portal</a>.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-show_downloads: "false"
+show_downloads: false
 
 # Build settings
 markdown: kramdown
