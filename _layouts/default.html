@@ -16,16 +16,21 @@
       <header>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <!-- add TOC in sidebar -->
+        {% for my_page in site.pages %}
+          {% if my_page.title %}
+            <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+          {% endif %}
+        {% endfor %}
       </header>
 
-      {{ toc }}
       <section>
 
       {{ content }}
 
       </section>
       <footer>
-        <p><small>This project is maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</small></p>
+        <p><small>Need help? Contact <a href="mailto:oaq@fas.harvard.edu">oaq@fas.harvard.edu</a>.</small></p>
       </footer>
     </div>
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
