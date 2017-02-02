@@ -3,9 +3,6 @@
 
 @import "{{ site.theme }}";
 
-header {
-  width:100px;
-  float:left;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
+.wrapper {
+  width:500px;
 }
