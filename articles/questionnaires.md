@@ -20,7 +20,7 @@ If you click **Create**, you will be taken to the [Edit Questionnaire](#editing-
 ### Essential Questions section
 {:.no_toc}
 
-OAQ requires the collection of some basic author information. This means that when you create a new questionnaire, it will contain a default section called **Essential questions**. You cannot delete these questions or expand this section, but you can rename it or distribute the questions to other sections.
+OAQ requires the collection of some basic author information. This means that when you create a new questionnaire, it will contain a default section called **Essential questions**. You cannot delete these questions, but you can rename it or distribute the questions to other sections. You can also move questions from other sections into the Essential Questions, but you cannot currently create a new question directly in this section.
 
 ## Actions you can perform on a questionnaire
 
