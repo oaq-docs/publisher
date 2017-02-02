@@ -1,10 +1,12 @@
 # Account Management
+{:.no_toc}
 
-## About account roles
+- TOC
+{:toc}
 
 OAQ is designed to be a multi-tenant platform, which means multiple publishers can use it simultaneously with their own users and branding. This means your organization's data will remain invisible to other publishers.
 
-Note that when we say _publisher_ in this documentation, we mean an [organization](/publisher-workflow/articles/organizations) with an **organization type** of "publisher." The other organization type available is "library."
+Note that when we say "publisher" in this documentation, we mean an organization with an [organization type](/publisher-workflow/articles/organizations#about-organizations) of _publisher_. The other organization type available is _library_.
 
 ## Types of account roles
 

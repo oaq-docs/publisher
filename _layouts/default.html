@@ -3,26 +3,22 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>{{ site.title | default: site.github.repository_name }} by {{ site.github.owner_name }}</title>
+    <title>{{ site.title | default: site.github.repository_name }}</title>
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <meta name="viewport" content="width=device-width">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
   </head>
   <body>
     <div class="wrapper">
       <header>
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p class="small">{{ site.description | default: site.github.project_tagline }}</p>
         <!-- add TOC in sidebar -->
-        <b>TOC</b><br/>
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-            • <a class="page-link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a><br/>
-          {% endif %}
-        {% endfor %}
+        <b>SECTIONS</b><br/>
+            • <a class="page-link" href="/articles/account_management.html">Account Management</a><br/>
+            • <a class="page-link" href="/articles/organizations.html">Organizations</a><br/>
+            • <a class="page-link" href="/articles/questionnaires.html">Questionnaires</a><br/>
+            • <a class="page-link" href="/articles/questions.html">Questions</a><br/>
       </header>
 
       <section>

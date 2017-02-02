@@ -1,10 +1,12 @@
 # Questionnaires
+{:.no_toc}
 
-## About questionnaires
+- TOC
+{:toc}
 
-An **author questionnaire** is a form that a publisher sends to its authors to collect details such as name, publications, biography, contacts, professional interests, PR opportunities, etc. The publisher typically collects this information well in advance of the work’s publication date so that it can be used in the design, promotion, and distribution of the book.
+An author questionnaire is a form that a publisher sends to its authors to collect details such as name, publications, biography, contacts, professional interests, PR opportunities, etc. The publisher typically collects this information well in advance of the work’s publication date so that it can be used in the design, promotion, and distribution of the book.
 
-In OAQ, the core objects of a questionnaire are [sections](LINK) comprised of [questions](LINK). An organization [admin](LINK) or [staff](LINK) member assembles these pieces to create each questionnaire.
+In OAQ, the core objects of a questionnaire are [sections](LINK) containing [questions](LINK). An organization [admin](LINK) or [staff](LINK) member assembles these pieces to create each questionnaire.
 
 ## Creating a new questionnaire
 
@@ -28,16 +30,19 @@ OAQ allows you to perform a number of actions on a saved questionnaire. When you
 |_Responses_|Takes you to a page where you can [manage author responses](link) for the questionnaire.|
 
 ### Editing a questionnaire
+{:.no_toc}
 
 On the **Edit Questionnaire** page, you can assemble the sections and questions that comprise each questionnaire.
 
 You can also click **Name and description** to edit the questionnaire details that appear in the list view.
 
 #### Essential Questions
+{:.no_toc}
 
 OAQ requires the collection of some basic author information. This means that when you create a new questionnaire, it will be pre-populated with a section called **Essential questions**. You cannot delete these questions or expand this section, but you can rename the section, create additional sections, and/or move any of the essential questions to other sections.
 
 #### Creating a new section
+{:.no_toc}
 
 1. On the **Edit Questionnaire** page, click **Add New Section**.
 2. In the popup window, add a name and description for the section. For example, if you want to group biographical questions together, you might enter the name "Biographical information" and add some descriptive text. (Note you can edit the name and description at any time from the main **Edit Questionnaire** page.)
@@ -46,6 +51,7 @@ OAQ requires the collection of some basic author information. This means that wh
 Clicking **Create** will take you back to the **Edit Questionnaire** page where your new section will now appear at the bottom.
 
 #### Adding/removing questions within a section
+{:.no_toc}
 
 Once you have created a new section for your questionnaire, you can manage questions within it.
 
@@ -55,12 +61,14 @@ Once you have created a new section for your questionnaire, you can manage quest
 This will take you to a page where you can perform the following actions.
 
 ##### Add an existing question to the section
+{:.no_toc}
 
 1. Under **Add Questions**, select a question from the dropdown (or start typing its name in the search box). Note that all [organization-wide questions](link) should appear as options in the dropdown except for [essential questions](link) and questions already in this or another section.
 2. Click **Add Question**.
 3. Confirm that the question appears under **Questions Currently In this Section**.
 
 ##### Create a brand new question and add it to the section
+{:.no_toc}
 
 1. Click **Create new question**.
 2. In the popup window, fill out the [question components](Question components).
@@ -69,6 +77,7 @@ This will take you to a page where you can perform the following actions.
 Note that if you create a new question this way, it will appear within the section and will _also_ be added to the organization-wide list of questions. You can also do the latter process separately, as described in "[Creating a new question](link)."
 
 ##### Remove a question from the section
+{:.no_toc}
 
 1. Under **Questions Currently In this Section**, click the trashcan icon next to the name of the question you want to remove.
 2. In the popup window, click **Yes** to remove the question, or click **No** to go back.
@@ -79,6 +88,7 @@ Note that this process will only remove the question from the _section_. The que
 When you have finished with this page, click **Done Adding Questions, Take Me Back To Section Editor**.
 
 #### Repositioning a question within a section
+{:.no_toc}
 
 1. On the **Edit Questionnaire** page, find the question you want to reposition.
 2. To the right of the question, _click and hold_ the **+** icon.
@@ -86,6 +96,7 @@ When you have finished with this page, click **Done Adding Questions, Take Me Ba
 4. Release the cursor when you are satisfied with the question's position.
 
 #### Moving a question to another section
+{:.no_toc}
 
 1. On the **Edit Questionnaire** page, find the question you want to move.
 2. To the right of the question, click the link that says **Move to another section**.
@@ -94,6 +105,7 @@ When you have finished with this page, click **Done Adding Questions, Take Me Ba
 5. Confirm that the question has moved to the desired section.
 
 #### Repositioning a section
+{:.no_toc}
 
 The **Edit Questionnaire** page provides a drag-and-drop interface so you can easily reorder sections within a questionnaire.
 
@@ -103,6 +115,7 @@ The **Edit Questionnaire** page provides a drag-and-drop interface so you can ea
 4. Release the cursor when you are satisfied with the section's position.
 
 #### Removing a section
+{:.no_toc}
 
 1. On the **Edit Questionnaire** page, find the section you want to remove.
 2. To the left of the **Edit _SECTION_ Name and Description** button, click the ![trashcan](/docs/assets/trashcan_icon.png) icon.
@@ -152,18 +165,21 @@ The **Answers for questionnaire** page will show a list of each author who has b
 As a publisher, there may be times where you want to work on a questionnaire on behalf of an author. If you click **Submit a new response** at the top of the **Answers for questionnaire** page, you can begin a questionnaire without generating an email to an author. You can then either submit it yourself or share the URL with the author later. Alternatively, you can click **Edit** under **Actions** next to an author's in-progress questionnaire and work on it that way.
 
 ### Accepting a response
+{:.no_toc}
 
 Once you have determined a response is complete, you can use the Status dropdown menu and mark it as **Accepted**.
 
 A popup window will then prompt you to enter an ISBN. You can enter an ISBN-10 or ISBN-13 and click **Add**, whereupon OAQ will validate the ISBN. Alternatively, you can click **Skip Add ISBN**, or you can click **Close** to discard your changes and go back.
 
 ### Exporting responses as CSV
+{:.no_toc}
 
 The **Answers for questionnaire** page provides you with the option to **Export All Answers**. If you click this button, a CSV file containing all responses in the list will begin downloading.
 
 You can also download individual responses by clicking **Download CSV** next to any response.
 
 #### Associating responses with ISBNs
+{:.no_toc}
 
 It's good practice to associate each response with an ISBN for the work if you have it available. Adding an ISBN will allow you to uniquely identify the book in exported data.
 

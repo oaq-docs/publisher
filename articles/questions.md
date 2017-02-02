@@ -1,6 +1,8 @@
 # Questions
+{:.no_toc}
 
-## About questions
+- TOC
+{:toc}
 
 Questions are the building blocks of OAQ. You can view a master list of all the questions created within your organization by clicking **Questions** in the top bar.
 
@@ -20,6 +22,7 @@ You can [preview](LINK) the question as you go.
 When you are finished, click **Create** to save the question, or click **Cancel** to discard your changes and go back.
 
 ### Question components
+{:.no_toc}
 
 A question is comprised of the following fields:
 

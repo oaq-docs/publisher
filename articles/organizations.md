@@ -1,6 +1,8 @@
 # Organizations
+{:.no_toc}
 
-## About organizations
+- TOC
+{:toc}
 
 An **organization** in OAQ may be one of two types: publisher or library. Note that this documentation is intended for a publisher workflow.
 
