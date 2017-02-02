@@ -14,19 +14,20 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: OAQ Publisher Workflow Docs
-email: your-email@domain.com
+email: oaq@fas.harvard.edu
 description: > # this means to ignore newlines until "baseurl:"
   OAQ is a web-based tool that helps publishers
   create author questionnaires and creates structured data from
   author responses. You can read more about the project on the
-  [Harvard Library portal](http://library.harvard.edu/oaq).
+  <a href="http://library.harvard.edu/oaq">Harvard Library portal</a>.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
+show_downloads: "false"
 
 # Build settings
 markdown: kramdown
-# theme: jekyll-theme-minimal
-theme: minima
+theme: jekyll-theme-minimal
+# theme: minima
 
 gems:
   - jekyll-feed
