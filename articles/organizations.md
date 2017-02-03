@@ -45,3 +45,10 @@ To delete a user:
   2. Find the user's name in the list.
   3. Under **Actions**, click **Delete**.
   4. In the confirmation window that pops up, click **OK** to confirm or click **Cancel** to go back.
+
+To restore a deleted user:
+
+  1. Click **Users** in the top bar.
+  2. Find the deleted user's name in the list.
+  3. Under **Actions**, click **Restore**.
+  4. In the confirmation window that pops up, click **OK** to confirm or click **Cancel** to go back.
