@@ -28,7 +28,7 @@ To invite a new user:
   1. Click **Users** in the top bar.
   2. Click **Invite users**.
   3. Enter the user email addresses.
-  4. Set their organization [roles](/publisher-workflow/articles/account_management#types-of-account-roles) to either **admin** or **staff**.
+  4. Set their organization [roles](account_management.md#types-of-account-roles) to either **admin** or **staff**.
   5. Click **Invite**.
 
 To edit a user:

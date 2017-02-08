@@ -6,7 +6,7 @@
 
 An author questionnaire is a form that a publisher sends to its authors to collect details such as name, publications, biography, contacts, professional interests, PR opportunities, etc.
 
-In OAQ, the core objects of a questionnaire are [sections](#creating-a-new-section) containing [questions](#managing-questions-within-a-section). An [organization admin or staff](/publisher-workflow/articles/account_management#types-of-account-roles) member assembles these pieces to create each questionnaire.
+In OAQ, the core objects of a questionnaire are [sections](#creating-a-new-section) containing [questions](#managing-questions-within-a-section). An [organization admin or staff](account_management.md#types-of-account-roles) member assembles these pieces to create each questionnaire.
 
 ## Creating a new questionnaire
 
@@ -79,15 +79,15 @@ This will take you to a page where you can perform the following actions.
 {:.no_toc}
 
 1. Click **Create new question**.
-2. In the popup window, fill out the [question components](/publisher-workflow/articles/questions#question-components).
+2. In the popup window, fill out the [question components](questions.md#question-components).
 3. Click **Create** to save the question, or click **Cancel** to discard your changes and go back.
 
-Note that if you create a new question this way, it will appear within the section and will _also_ be added to the [organization-wide questions](/publisher-workflow/articles/questions). You can also do the latter process [separately](/publisher-workflow/articles/questions#creating-a-new-question).
+Note that if you create a new question this way, it will appear within the section and will _also_ be added to the [organization-wide questions](questions.md). You can also do the latter process [separately](questions.md#creating-a-new-question).
 
 #### Add an existing question to the section
 {:.no_toc}
 
-This step requires that you have previously added at least one [organization-wide question](/publisher-workflow/articles/questions).
+This step requires that you have previously added at least one [organization-wide question](questions.md).
 
 1. Under **Add Questions**, select a question from the dropdown (or start typing its name in the search box). Note that all organization-wide questions will appear as options in the dropdown except for [essential questions](#essential-questions-section) and questions already in the questionnaire.
 2. Click **Add Question**.
@@ -100,7 +100,7 @@ This step requires that you have previously added at least one [organization-wid
 2. In the popup window, click **Yes** to remove the question, or click **No** to go back.
 3. Confirm that the question has disappeared from **Questions Currently In this Section** and is once again available in the dropdown.
 
-Note that this process will only remove the question from the _questionnaire_. The question will still exist in the [organization-wide questions](/publisher-workflow/articles/questions).
+Note that this process will only remove the question from the _questionnaire_. The question will still exist in the [organization-wide questions](questions.md).
 
 When you have finished with this page, click **Done Adding Questions, Take Me Back To Section Editor**.
 
