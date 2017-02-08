@@ -6,7 +6,7 @@
 
 Questions are the building blocks of OAQ. You can view a master list of all the questions created within your organization by clicking **Questions** in the top bar.
 
-For information on managing questions within questionnaires, see "[Editing a questionnaire](questionnaires.md#editing-a-questionnaire)."
+For information on managing questions within questionnaires, see "[Editing a questionnaire](questionnaires#editing-a-questionnaire)."
 
 ## Creating a new question
 
@@ -41,7 +41,7 @@ These steps will create an organization-wide question without adding it to a que
 |Multiple Choice|The question will be followed by a multiple choice list of all the **Answer Options** you add (see above [table](#question-components)).|
 |Checkboxes|The question will be followed by a checkbox list of all the **Answer Options** you add (see above [table](#question-components)).|
 
-For information on creating a question from within a questionnaire, see "[Create a new question and add it to a section](questionnaires.md#create-a-brand-new-question-and-add-it-to-the-section)."
+For information on creating a question from within a questionnaire, see "[Create a new question and add it to a section](questionnaires#create-a-brand-new-question-and-add-it-to-the-section)."
 
 ## Editing a question
 
