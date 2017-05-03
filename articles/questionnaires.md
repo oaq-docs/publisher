@@ -169,7 +169,9 @@ After you've sent a questionnaire to an author, you can view and manage the stat
 
 The **Answers for questionnaire** page will show a list of each author who has been invited to the questionnaire, along with the date it was last modified and the [status](#response-status) of the response.
 
-As a publisher, there may be times where you want to work on a questionnaire on behalf of an author. If you click **Submit a new response** at the top of the page, you can begin a questionnaire without generating an email to an author. You can then either submit it yourself or share the URL with the author later. You can also work on an author's in-progress questionnaire by clicking **Edit** next to its name in the list.
+Note that each email address in the **Author Email** column is a hyperlink; if you click the link, your default mail program will open with the author's address, a subject line, and a message body already filled in. The message will include the unique URL to the questionnaire. Feel free to modify this email before sending it, or you can use this feature as a way to access the questionnaire URL for later correspondence.
+
+As a publisher, there may be times when you want to work on a questionnaire on behalf of an author. If you click **Submit a new response** at the top of the page, you can begin a questionnaire without generating an email to an author. You can then either submit it yourself or share the URL with the author later. You can also work on an author's in-progress questionnaire by clicking **Edit** next to its name in the list.
 
 ### Response status
 {:.no_toc}
