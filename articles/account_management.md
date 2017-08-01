@@ -6,11 +6,11 @@
 
 OAQ is designed to be a multi-tenant platform, which means multiple publishers can use it simultaneously with their own users and branding. This means your organization's data will remain invisible to other publishers.
 
-Note that when we say "publisher" in this documentation, we mean an organization with an [organization type](organizations) of _publisher_. The other organization type available is _library_.
+Note that when we say "publisher" in this documentation, we mean an organization with an [organization type](organizations) of **publisher**. The other organization type available is [**library**](https://oaq-docs.github.io/library-workflow).
 
 ## Types of account roles
 
-The OAQ application supports several types of **account roles**, each with different views and access. Here they are in order from most to least permissions:
+The OAQ application supports several types of **account roles**, each with different views and permissions. Here they are in order from most to least access:
 
 | Account role | Permissions |
 |--|--|
@@ -26,6 +26,10 @@ Before anyone from your organization can do anything in OAQ, a site admin will n
 Your experience as a publisher in OAQ begins when the site admin invites the first member (or members) to the organization to be an  **organization admin**.
 
 Each invited organization admin will receive an email that contains an invitation link. If you receive one of these emails and click the link, you will be taken to a page in OAQ where you can confirm your account and create a password. Note that you can always [change your password](account_management#changing-your-password) later.
+
+## Associating your organization with libraries
+
+OAQ facilitates the sharing of questionnaire data between publishers and libraries. As a publisher, you can [share author responses](questionnaires#accepting-a-response) with any library of your choosing. Only OAQ [site admins](#types-of-account-roles) can set up publisher–library associations, so talk to the site admin who creates your organization about the libraries you wish to work with.
 
 ## Inviting others to the organization
 
