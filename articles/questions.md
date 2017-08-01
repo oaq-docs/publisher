@@ -10,12 +10,12 @@ For information on managing questions within questionnaires, see "[Editing a que
 
 ## Creating a new question
 
-These steps will create an organization-wide question without adding it to a questionnaire.
+You can create an organization-wide question without adding it to a specific questionnaire:
 
-1. Click **+ Add a question** in the top bar. (Alternatively, you can click **Questions** in the top bar, then click **+ Create new question**.)
+1. Click **+ Add a question** in the top bar. (Alternatively, click **Questions** in the top bar, then click **+ Create new question**.)
 2. On the **New Question** page, fill in the [question components](#question-components).
 3. You can [preview](#previewing-a-question) the question as you go.
-4. When you are finished, click **Create** to save the question, or click **Cancel** to discard your changes and go back.
+4. When you are finished, click **Create** to save the question, or click **Cancel** to discard your changes.
 
 ### Question components
 {:.no_toc}
@@ -23,7 +23,7 @@ These steps will create an organization-wide question without adding it to a que
 |Field|Explanation|
 |--|--|
 |Name|The text of the question that appears in the questionnaire. (For example, `Awards`.)|
-|Help Text|Optional text that appears when an author hovers over the question mark icon next to the question. This text should provide more description or context about what the author should answer. (For example, if the name is `Awards`, useful help text might be, `Are there any awards for which you would like us to nominate your book?`)|
+|Help Text|Optional text that appears when an author hovers over the question mark icon next to the question. This text should provide more description about what the author should answer. (For example, if the name is `Awards`, useful help text might be, `Are there any awards for which you would like us to nominate your book?`)|
 |Type|Controls the accepted format of the answer. (See the [table](#type-field-options) below for more on these options.)|
 |Placeholder|Optional text that appears in gray in the answer field, which authors will overwrite. It's helpful for showing an example answer in a particular format. (Note that placeholder text is not available for all question types.)|
 |Answer Options|This field will only appear when **Dropdown**, **Multiple Choice**, or **Checkboxes** is selected in the [**type** field](#type-field-options). In this field, type each answer that you want to appear in your desired dropdown/multiple choice/checkbox list, and press _Enter_ before typing the next one.|
