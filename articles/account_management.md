@@ -15,8 +15,8 @@ The OAQ application supports several types of **account roles**, each with diffe
 | Account role | Permissions |
 |--|--|
 |Site admin| Can see and manage all organizations, including creating organizations and inviting users to an organization. Currently limited to Harvard library staff. |
-|Organization admin | Can [invite staff to the organization](#inviting-others-to-the-organization), [manage organization users](organizations#managing-organization-users), [edit organization details](organizations#editing-organization-details), [create new questionnaires](questionnaires#creating-a-new-questionnaire), [manage questionnaires](questionnaires#actions-you-can-perform-on-a-questionnaire), [send questionnaires to authors](questionnaires#sending-a-questionnaire-to-an-author), and [manage author responses](questionnaires#managing-author-responses). |
-|Organization staff | Can [create new questionnaires](questionnaires#creating-a-new-questionnaire), [manage questionnaires](questionnaires#actions-you-can-perform-on-a-questionnaire), [send questionnaires to authors](questionnaires#sending-a-questionnaire-to-an-author), and [manage author responses](questionnaires#managing-author-responses). |
+|Organization admin | Can [invite staff to the organization](#inviting-others-to-the-organization), [manage organization users](organizations#managing-organization-users), [edit organization details](organizations#editing-organization-details), [create new questionnaires](questionnaires#creating-a-new-questionnaire), [manage questionnaires](questionnaires#actions-you-can-perform-on-a-questionnaire), [send questionnaires to authors](questionnaires#sending-a-questionnaire-to-an-author), and [manage author responses](responses#managing-author-responses). |
+|Organization staff | Can [create new questionnaires](questionnaires#creating-a-new-questionnaire), [manage questionnaires](questionnaires#actions-you-can-perform-on-a-questionnaire), [send questionnaires to authors](questionnaires#sending-a-questionnaire-to-an-author), and [manage author responses](responses#managing-author-responses). |
 |Author | Can view, save, and submit questionnaires. |
 
 ## Getting started as an organization admin
@@ -27,9 +27,9 @@ Your experience as a publisher in OAQ begins when the site admin invites the fir
 
 Each invited organization admin will receive an email that contains an invitation link. If you receive one of these emails and click the link, you will be taken to a page in OAQ where you can confirm your account and create a password. Note that you can always [change your password](account_management#changing-your-password) later.
 
-## Associating your organization with libraries
+## Partnering with libraries
 
-OAQ facilitates the sharing of questionnaire data between publishers and libraries. As a publisher, you can [share author responses](questionnaires#accepting-a-response) with any library of your choosing. Only OAQ [site admins](#types-of-account-roles) can set up publisher–library associations, so talk to the site admin who creates your organization about the libraries you wish to work with.
+OAQ facilitates the sharing of questionnaire data between publishers and libraries. As a publisher, you can [share author responses](responses#accepting-a-response) with any library of your choosing. Only OAQ [site admins](#types-of-account-roles) can set up publisher–library partnerships, so talk to the site admin who creates your organization about the libraries you wish to work with.
 
 ## Inviting others to the organization
 
