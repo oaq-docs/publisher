@@ -6,7 +6,7 @@
 
 An organization in OAQ may be one of two types: publisher or library. This documentation is intended for a publisher workflow.
 
-An organization must have at least one **organization admin** who may create additional **organization staff**. These staff members can [create and manage questionnaires](questionnaires#creating-a-new-questionnaire), [invite authors to respond to them](questionnaires#sending-a-questionnaire-to-an-author), and [manage author responses](questionnaires#managing-responses).
+An organization must have at least one **organization admin** who may create additional **organization staff**. These staff members can [create and manage questionnaires](questionnaires#creating-a-new-questionnaire), [invite authors to respond to them](questionnaires#sending-a-questionnaire-to-an-author), and [manage author responses](responses#managing-responses).
 
 ## Editing organization details
 
