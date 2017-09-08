@@ -31,7 +31,7 @@ Here’s an explanation of the **Status** dropdown menu options:
 |Author Submitted|The author has gone through each section of the questionnaire and clicked **Submit answers** at the end.|
 |Accepted|The publisher has marked the questionnaire as **Accepted** using the Status dropdown menu. This action makes the response visible to any [partner libraries](account_management#partnering-with-libraries).|
 |Not Sent|The publisher has created the questionnaire but not yet sent it to authors.|
-|Library In Progress*|A partner library has received the accepted questionnaire and begun processing it. Note that when a library takes this action, it locks the questionnaire for further editing by publishers and authors.|
+|Library In Progress*|A partner library has received the accepted questionnaire and begun processing it. Note that when a library takes this action, it locks the questionnaire for further editing by authors or publisher staff members.|
 |Library Complete*|A partner library has received the accepted questionnaire and finished processing it.|
 |Not processed*|A partner library has received the accepted questionnaire but has not begun processing it yet.|
 
@@ -47,7 +47,7 @@ If a response's status has never been changed, the popup window will be blank.
 
 ## Accepting a response
 
-Once you have determined a response is complete, you can use the Status dropdown menu to mark it as **Accepted**. This action locks the questionnaire for editing by authors or staff members. It also makes the questionnaire response visible to any [partner libraries](account_management#partnering-with-libraries) with your organization.
+Once you have determined a response is complete, you can use the Status dropdown menu to mark it as **Accepted**. This action makes the questionnaire response visible to any [partner libraries](account_management#partnering-with-libraries).
 
 Additionally, a popup window will prompt you to enter an [ISBN](#associating-responses-with-isbns). You can enter an ISBN-10 or ISBN-13 and click **Add**, whereupon OAQ will validate the ISBN. Alternatively, you can click **Skip Add ISBN**, or you can click **Close** to discard your changes.
 
@@ -58,6 +58,8 @@ If you need to undo an **Accepted** status, you can change the status as long as
 2. A library has not changed the status of the response on their end.
 
 Once either of these events has happened, you will not be able to change the **Accepted** status. Contact your OAQ site admin if you have reason to change an **Accepted** status and are unable to.
+
+When a library begins processing the response in their separate OAQ environment, a library user will change the status to **Library In Progress**. This action locks the questionnaire for editing by authors or publisher staff members.
 
 ## Exporting response data
 
